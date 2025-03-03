@@ -37,11 +37,11 @@ class Program
         Console.WriteLine("\n===== PROGRAM DOOR MACHINE =====");
         DoorMachine pintu = new DoorMachine();
 
-        pintu.CurrentState();  // Menampilkan status awal
-        pintu.ToggleLock();    // Mengubah status kunci
-        pintu.OpenDoor();      // Mencoba membuka pintu
-        pintu.CloseDoor();     // Menutup pintu kembali
-        pintu.ToggleLock();    // Mengunci pintu kembali
+        pintu.CurrentState();  
+        pintu.ToggleLock();    
+        pintu.OpenDoor();      
+        pintu.CloseDoor();     
+        pintu.ToggleLock();    
 
         Console.WriteLine("\nProgram selesai. Tekan Enter untuk keluar.");
         Console.ReadLine();
