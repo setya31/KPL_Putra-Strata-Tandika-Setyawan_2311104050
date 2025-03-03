@@ -32,10 +32,8 @@ class Program
 {
     static void Main()
     {
-        // Menampilkan semua kode pos tanpa input
         KodePos.TampilkanSemuaKodePos();
 
-        // Program Door Machine
         Console.WriteLine("\n===== PROGRAM DOOR MACHINE =====");
         DoorMachine pintu = new DoorMachine();
 
