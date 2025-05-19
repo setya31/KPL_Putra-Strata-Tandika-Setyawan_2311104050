@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBA626-9E64-452F-BF99-B82A1C92B74F}|modul6_2311104050\\modul6_2311104050.csproj|d:\\setya\\clone\\kpl_putra-strata-tandika-setyawan_2311104050\\06_design_by_contract_dan_defensive_programming\\jurnal\\modul6_2311104050\\modul6_2311104050\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DBA626-9E64-452F-BF99-B82A1C92B74F}|modul6_2311104050\\modul6_2311104050.csproj|solutionrelative:modul6_2311104050\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBA626-9E64-452F-BF99-B82A1C92B74F}|modul6_2311104050\\modul6_2311104050.csproj|d:\\setya\\clone\\kpl_putra-strata-tandika-setyawan_2311104050\\06_design_by_contract_dan_defensive_programming\\jurnal\\modul6_2311104050\\modul6_2311104050\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DBA626-9E64-452F-BF99-B82A1C92B74F}|modul6_2311104050\\modul6_2311104050.csproj|solutionrelative:modul6_2311104050\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DBA626-9E64-452F-BF99-B82A1C92B74F}|modul6_2311104050\\modul6_2311104050.csproj|d:\\setya\\clone\\kpl_putra-strata-tandika-setyawan_2311104050\\06_design_by_contract_dan_defensive_programming\\jurnal\\modul6_2311104050\\modul6_2311104050\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DBA626-9E64-452F-BF99-B82A1C92B74F}|modul6_2311104050\\modul6_2311104050.csproj|solutionrelative:modul6_2311104050\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\modul6_2311104050\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "modul6_2311104050\\SayaTubeUser.cs",
+              "ToolTip": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\modul6_2311104050\\SayaTubeUser.cs",
+              "RelativeToolTip": "modul6_2311104050\\SayaTubeUser.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:35:36.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\modul6_2311104050\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "modul6_2311104050\\SayaTubeVideo.cs",
+              "ToolTip": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\modul6_2311104050\\SayaTubeVideo.cs",
+              "RelativeToolTip": "modul6_2311104050\\SayaTubeVideo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:33:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\modul6_2311104050\\Program.cs",
+              "RelativeDocumentMoniker": "modul6_2311104050\\Program.cs",
+              "ToolTip": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\06_Design_by_Contract_dan_Defensive_Programming\\Jurnal\\modul6_2311104050\\modul6_2311104050\\Program.cs",
+              "RelativeToolTip": "modul6_2311104050\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:32:22.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
