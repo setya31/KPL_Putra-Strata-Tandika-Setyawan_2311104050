@@ -1,0 +1,15 @@
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\bin\Debug\net8.0\tpmodul6_2311104050.exe
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\bin\Debug\net8.0\tpmodul6_2311104050.deps.json
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\bin\Debug\net8.0\tpmodul6_2311104050.runtimeconfig.json
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\bin\Debug\net8.0\tpmodul6_2311104050.dll
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\bin\Debug\net8.0\tpmodul6_2311104050.pdb
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.GeneratedMSBuildEditorConfig.editorconfig
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.AssemblyInfoInputs.cache
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.AssemblyInfo.cs
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.csproj.CoreCompileInputs.cache
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.sourcelink.json
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.dll
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\refint\tpmodul6_2311104050.dll
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.pdb
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\tpmodul6_2311104050.genruntimeconfig.cache
+D:\Setya\Clone\KPL_Putra-Strata-Tandika-Setyawan_2311104050\06_Design_by_Contract_dan_Defensive_Programming\TP\tpmodul6_2311104050\tpmodul6_2311104050\obj\Debug\net8.0\ref\tpmodul6_2311104050.dll
