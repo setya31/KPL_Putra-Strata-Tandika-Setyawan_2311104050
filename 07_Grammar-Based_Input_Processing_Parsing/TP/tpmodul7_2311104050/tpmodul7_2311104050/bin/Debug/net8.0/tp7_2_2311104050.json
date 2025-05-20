@@ -1,0 +1,12 @@
+{
+    "mata_kuliah": [
+        {
+            "kode": "IF101",
+            "nama": "Pemrograman Dasar"
+        },
+        {
+            "kode": "IF102",
+            "nama": "Struktur Data"
+        }
+    ]
+}

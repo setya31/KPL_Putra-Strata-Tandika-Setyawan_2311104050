@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{01DAD5AB-1875-45D5-B932-BE1ED44C633B}|tpmodul7_2311104050\\tpmodul7_2311104050.csproj|d:\\setya\\clone\\kpl_putra-strata-tandika-setyawan_2311104050\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2311104050\\tpmodul7_2311104050\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01DAD5AB-1875-45D5-B932-BE1ED44C633B}|tpmodul7_2311104050\\tpmodul7_2311104050.csproj|solutionrelative:tpmodul7_2311104050\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DAD5AB-1875-45D5-B932-BE1ED44C633B}|tpmodul7_2311104050\\tpmodul7_2311104050.csproj|d:\\setya\\clone\\kpl_putra-strata-tandika-setyawan_2311104050\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2311104050\\tpmodul7_2311104050\\kuliahmahasiswa2311104050.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DAD5AB-1875-45D5-B932-BE1ED44C633B}|tpmodul7_2311104050\\tpmodul7_2311104050.csproj|solutionrelative:tpmodul7_2311104050\\kuliahmahasiswa2311104050.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DAD5AB-1875-45D5-B932-BE1ED44C633B}|tpmodul7_2311104050\\tpmodul7_2311104050.csproj|d:\\setya\\clone\\kpl_putra-strata-tandika-setyawan_2311104050\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2311104050\\tpmodul7_2311104050\\datamahasiswa2311104050.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DAD5AB-1875-45D5-B932-BE1ED44C633B}|tpmodul7_2311104050\\tpmodul7_2311104050.csproj|solutionrelative:tpmodul7_2311104050\\datamahasiswa2311104050.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KuliahMahasiswa2311104050.cs",
+              "DocumentMoniker": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2311104050\\tpmodul7_2311104050\\KuliahMahasiswa2311104050.cs",
+              "RelativeDocumentMoniker": "tpmodul7_2311104050\\KuliahMahasiswa2311104050.cs",
+              "ToolTip": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2311104050\\tpmodul7_2311104050\\KuliahMahasiswa2311104050.cs",
+              "RelativeToolTip": "tpmodul7_2311104050\\KuliahMahasiswa2311104050.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:53:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataMahasiswa2311104050.cs",
+              "DocumentMoniker": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2311104050\\tpmodul7_2311104050\\DataMahasiswa2311104050.cs",
+              "RelativeDocumentMoniker": "tpmodul7_2311104050\\DataMahasiswa2311104050.cs",
+              "ToolTip": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2311104050\\tpmodul7_2311104050\\DataMahasiswa2311104050.cs",
+              "RelativeToolTip": "tpmodul7_2311104050\\DataMahasiswa2311104050.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:43:09.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "tpmodul7_2311104050\\Program.cs",
               "ToolTip": "D:\\Setya\\Clone\\KPL_Putra-Strata-Tandika-Setyawan_2311104050\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2311104050\\tpmodul7_2311104050\\Program.cs",
               "RelativeToolTip": "tpmodul7_2311104050\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T13:08:31.386Z",
               "EditorCaption": ""
